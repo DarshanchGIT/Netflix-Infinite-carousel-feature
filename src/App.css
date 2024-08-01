@@ -1,0 +1,19 @@
+.main {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  /* flex-direction:column; */
+  height:100vh;
+}
+.btn{
+  font-size: 17px;
+  font-family:poppins;
+  height:40px;
+  width: 100px;
+  padding:10px;
+  margin:10px;
+  border-radius:15px;
+  background-color:black;
+  color:white;
+  cursor:pointer;
+}
